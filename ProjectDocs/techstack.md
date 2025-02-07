@@ -1,0 +1,1 @@
+The technologies that Cursor will use to create the application go here

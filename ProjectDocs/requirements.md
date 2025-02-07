@@ -1,0 +1,1 @@
+Requirements of the application that Cursor needs to remember goes here
